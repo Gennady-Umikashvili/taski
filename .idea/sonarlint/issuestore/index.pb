@@ -11,7 +11,5 @@ C
 frontend/Dockerfile,8/c/8cbab8791f5ce92942fd63428b3f656f0615a299
 H
 backend/requirements.txt,7/4/7467689207bc56c9ef017581c0c04191bc16e11e
-K
-backend/backend/settings.py,b/b/bb516eca5c29d1a0ba1053e79f291b4bef784971
 B
 gateway/nginx.conf,c/6/c6122a2b9eb28d7d27441d9fdf0526d194382591
